@@ -17,7 +17,8 @@
     "--talk-name=org.gnome.evolution.dataserver.AddressBook9",
     "--talk-name=org.gnome.evolution.dataserver.Calendar7",
     "--talk-name=org.gnome.evolution.dataserver.Sources5",
-    "--talk-name=org.gnome.evolution.dataserver.Subprocess.Backend.*"
+    "--talk-name=org.gnome.evolution.dataserver.Subprocess.Backend.*",
+    "--talk-name=com.github.alainm23.planner"
   ],
   "cleanup": [
     "/include",
@@ -85,8 +86,8 @@
       "buildsystem": "meson",
       "sources": [{
         "type": "archive",
-        "url": "https://github.com/alainm23/planner/archive/2.2.2.zip",
-        "sha256": "ebe01183e4c0bf0314e33ab90949514e80883482cdf9763e38f0515628da746c"
+        "url": "https://github.com/alainm23/planner/archive/2.2.13.zip",
+        "sha256": "fc87bc3af559fd87fea6b1ed4297ac00bb40b62556fc7fc23405b6df0d3b0d2c"
       }]
     }
   ]
