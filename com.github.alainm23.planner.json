@@ -86,8 +86,8 @@
       "buildsystem": "meson",
       "sources": [{
         "type": "archive",
-        "url": "https://github.com/alainm23/planner/archive/2.3.3.zip",
-        "sha256": "20e382fc4236591e1dee54a90feb5567666a8954f88bb0561035aa3cc846dd17"
+        "url": "https://github.com/alainm23/planner/archive/2.3.4.zip",
+        "sha256": "2b03a98c2cb5a3e7c904b5f927532b2b5829a0c7997253ea789cdc5a9ebb75d3"
       }]
     }
   ]
