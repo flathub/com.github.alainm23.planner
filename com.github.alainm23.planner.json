@@ -25,16 +25,22 @@
       "--env=DCONF_USER_CONFIG_DIR=.config/dconf"
   ],
   "cleanup": [
-      "/include",
-      "/lib/pkgconfig",
-      "/man",
-      "/share/doc",
-      "/share/gtk-doc",
-      "/share/man",
-      "/share/pkgconfig",
-      "/share/vala",
-      "*.la",
-      "*.a"
+    "/include",
+    "/lib/pkgconfig",
+    "/man",
+    "/share/doc",
+    "/share/gtk-doc",
+    "/share/man",
+    "/share/pkgconfig",
+    "/share/vala",
+    "*.la",
+    "*.a",
+    "/lib/girepository-1.0",
+    "/lib/vala-0.40",
+    "/lib/valadoc",
+    "/share/gir-1.0",
+    "/share/vala-0.40",
+    "/share/valadoc"
   ],
   "modules": [
       {
