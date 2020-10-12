@@ -2,7 +2,7 @@
   "app-id": "com.github.alainm23.planner",
   "sdk": "org.gnome.Sdk",
   "runtime": "org.gnome.Platform",
-  "runtime-version": "3.36",
+  "runtime-version": "3.38",
   "base": "io.elementary.BaseApp",
   "base-version": "juno-19.08",
   "command": "com.github.alainm23.planner",
@@ -126,7 +126,7 @@
         "sources": [{
           "type": "archive",
           "url": "https://github.com/alainm23/planner/archive/2.5.4.zip",
-          "sha256": "7f8ea0a5fc796bf8d0b4f9452a621e2dc02331d2c6293b62fb0faf484dceb89c"
+          "sha256": "4eef20b9b55088eb8c95febb8bfa987837fd6d9122a5e7847c96249b3f301da3"
         }]
       }
   ]
