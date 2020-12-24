@@ -67,6 +67,17 @@
           ]
       },
       {
+        "name": "libpeas",
+        "buildsystem": "meson",
+        "sources": [
+            {
+                "type": "git",
+                "url": "https://gitlab.gnome.org/GNOME/libpeas.git",
+                "branch": "master"
+            }
+        ]
+      },
+      {
           "name": "intltool",
           "cleanup": [ "*" ],
           "sources": [{
@@ -125,7 +136,7 @@
         "buildsystem": "meson",
         "sources": [{
           "type": "archive",
-          "url": "https://github.com/alainm23/planner/archive/2.5.7.zip",
+          "url": "https://github.com/alainm23/planner/archive/2.6.1.zip",
           "sha256": "21e8032ee7582571b501c23f1057d2acfdb5ddec0ca3961b122397910ce319e3"
         }]
       }
