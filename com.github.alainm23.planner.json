@@ -136,7 +136,7 @@
         "buildsystem": "meson",
         "sources": [{
           "type": "archive",
-          "url": "https://github.com/alainm23/planner/archive/2.6.2.zip",
+          "url": "https://github.com/alainm23/planner/archive/2.6.8.zip",
           "sha256": "d418a34316aa6d67a9902d79691c316478a313d0666a31516edc334e78546dfd"
         }]
       }
