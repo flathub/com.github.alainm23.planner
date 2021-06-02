@@ -38,75 +38,6 @@
     ],
     "modules": [
         {
-            "name": "icons",
-            "buildsystem": "meson",
-            "sources": [
-                {
-                    "type": "git",
-                    "url": "https://github.com/elementary/icons.git"
-                }
-            ],
-            "modules": [
-                {
-                    "name": "xcursorgen",
-                    "cleanup": [ "*" ],
-                    "sources": [
-                        {
-                            "type": "git",
-                            "url": "https://gitlab.freedesktop.org/xorg/app/xcursorgen.git",
-                            "tag": "xcursorgen-1.0.7"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "stylesheet",
-            "buildsystem": "meson",
-            "sources": [
-                {
-                    "type": "git",
-                    "url": "https://github.com/elementary/stylesheet.git"
-                }
-            ],
-            "modules": [
-                {
-                    "name": "sassc",
-                    "cleanup": [ "*" ],
-                    "sources": [
-                        {
-                            "type": "git",
-                            "url": "https://github.com/sass/sassc.git",
-                            "tag": "3.6.1"
-                        },
-                        {
-                            "type": "script",
-                            "dest-filename": "autogen.sh",
-                            "commands": [ "autoreconf -si" ]
-                        }
-                    ],
-                    "modules": [
-                        {
-                            "name": "libsass",
-                            "cleanup": [ "*" ],
-                            "sources": [
-                                {
-                                    "type": "git",
-                                    "url": "https://github.com/sass/libsass.git",
-                                    "tag": "3.6.4"
-                                },
-                                {
-                                    "type": "script",
-                                    "dest-filename": "autogen.sh",
-                                    "commands": [ "autoreconf -si" ]
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "name": "libical",
             "cleanup": [
                 "/lib/cmake"
@@ -245,7 +176,7 @@
             "buildsystem": "meson",
             "sources": [{
               "type": "archive",
-              "url": "https://github.com/alainm23/planner/archive/2.6.9.zip",
+              "url": "https://github.com/alainm23/planner/archive/2.7.zip",
               "sha256": "078fab957560637d15ddaaa914dae9da33b191be1221a3687e8201fbe1dedb41"
             }]
         }
