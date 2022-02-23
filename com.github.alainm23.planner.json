@@ -113,7 +113,7 @@
             "sources": [{
               "type": "archive",
               "url": "https://github.com/alainm23/planner/archive/3.0.6.zip",
-              "sha256": "572cbb11268c851d233201c56de2e4faefa7b282d75f8f9629d9e31f778c33ee"
+              "sha256": "0592daeef3ad385f034394503381cc10592be75c5a85598b3aacc7b107062798"
             }]
         }
     ]
