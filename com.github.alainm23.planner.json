@@ -217,7 +217,7 @@
             "sources": [{
               "type": "git",
               "url": "https://github.com/alainm23/planner.git",
-              "commit": "b3c7b3dfbd4f89a0364bbd091975467df256f298"
+              "commit": "daf6aff3fd9cd2ad47c52312b8aeded905a65aea"
             }]
         }
     ]
