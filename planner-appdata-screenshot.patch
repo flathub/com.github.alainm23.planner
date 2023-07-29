@@ -1,0 +1,19 @@
+diff --git a/data/com.github.alainm23.planner.appdata.xml.in b/data/com.github.alainm23.planner.appdata.xml.in
+index 69c137b..8a181e7 100644
+--- a/data/com.github.alainm23.planner.appdata.xml.in
++++ b/data/com.github.alainm23.planner.appdata.xml.in
+@@ -782,12 +782,12 @@
+   <screenshots>
+     <screenshot type="default">
+       <image
+-        >https://raw.githubusercontent.com/alainm23/planner/master/data/screenshot/screenshot-01.png</image
++        >https://raw.githubusercontent.com/alainm23/planner/6a8445fecbd39e4332e7ff2f45b4eee0c5284b2e/data/screenshot/screenshot-01.png</image
+       >
+     </screenshot>
+     <screenshot>
+       <image
+-        >https://raw.githubusercontent.com/alainm23/planner/master/data/screenshot/screenshot-02.png</image
++        >https://raw.githubusercontent.com/alainm23/planner/6a8445fecbd39e4332e7ff2f45b4eee0c5284b2e/data/screenshot/screenshot-02.png</image
+       >
+     </screenshot>
+   </screenshots>
