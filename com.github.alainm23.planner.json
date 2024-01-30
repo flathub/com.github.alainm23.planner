@@ -217,6 +217,9 @@
               "type": "git",
               "url": "https://github.com/alainm23/planner.git",
               "commit": "6a8445fecbd39e4332e7ff2f45b4eee0c5284b2e"
+            },{
+              "type": "patch",
+              "path": "planner-appdata-screenshot.patch"
             }]
         }
     ]
