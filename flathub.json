@@ -1,3 +1,4 @@
 {
-    "end-of-life": "This wrapper is no longer maintained because of incompatibilities with the official release"
+    "end-of-life": "This wrapper is no longer maintained because of incompatibilities with the official release",
+    "end-of-life-rebase": "io.github.alainm23.planify"
 }
